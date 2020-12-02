@@ -38,7 +38,7 @@
 
 ### Miscellaneous:
 
-![Kavin's github stats](https://github-readme-stats.vercel.app/api?username=prathabanKavin&show_icons=true&count_private=true)
+![Kavin's github stats](https://github-readme-stats.vercel.app/api?username=prathabanKavin&show_icons=true&count_private=true&hide_border=true)
 
 ![Kavin's Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prathabanKavin&langs_count=8&layout=compact)
 
